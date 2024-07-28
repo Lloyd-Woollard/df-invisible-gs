@@ -62,6 +62,12 @@ because that's going to be really expensive computationally.
 Potentially if I'm going to move to chunky-png, I could refactor the
 rest of the code to avoid using ImageMagick.
 
+  - [X] Add chunky-png as a gem
+    - [X] Add .ruby-version
+    - [X] Add a Gemfile
+  - [ ] Add some development documentation
+    - [ ] Update documentation for setting up the Gems
+
 ### Mods
   - [X] Move relevant folders to `mods` directory
   - [X] Update all the `info.txt` files to have correct IDs and versions

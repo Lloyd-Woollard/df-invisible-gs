@@ -70,7 +70,7 @@ When using the mods, make sure to press the "Mods" button on the world creation
 page so that the mods you want to use are actually used.
 
 In terms of creating sprites, each sprite is a 32x32 block.  When you load up
-the a png into a graphics editor you will see a grid of gray and magenta blocks.
+a png into a graphics editor you will see a grid of gray and magenta blocks.
 Each of these blocks is 16x16 and so a full sprite will take up a 4 block square.
 It's simply a matter of determining what you have to draw, and drawing it in
 that square.
